@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a restaurant business analysis for **Chicken GoGo**, completed in the style of a **Data Analyst Intern** project. The goal of this project is to analyze real restaurant operation data and turn it into business insights that can help improve sales tracking, labor scheduling, payroll review, and overall restaurant management.
+This project is a restaurant business analysis for **Chicken GoGo**. The goal of this project is to analyze real restaurant operation data and turn it into business insights that can help improve sales tracking, labor scheduling, payroll review, and overall restaurant management.
 
 The project includes both a professional HTML report and a Jupyter Notebook analysis.
 
